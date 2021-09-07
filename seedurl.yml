@@ -1,0 +1,5 @@
+seedurl: "http://www.namjo.io:9180"
+mainurl: "https://www.namjo.io:9080"
+p2pdata:
+  host: "<Insert your IP Address here>"
+  port: "9180"
